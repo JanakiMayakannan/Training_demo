@@ -1,3 +1,5 @@
 First demo file.
   It is created in the github repository.
-  
+  Learning Linux Commands as well
+    mkdir
+    cd
